@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color: rgb(184, 106, 106);
+}
+h1{
+    background-color: rgba(54, 49, 92, 0.774);
+    color: rgba(196, 196, 196, 0.938);
+}
+h2{background-color: rgb(196, 196, 196, 0.938);
+    color: rgba(54, 49, 92, 0.774);
+
+}
+strong{
+    font-size: 40px;
+    font-weight: 100;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+}
+a{
+    color: rgb(187, 0, 0);
+    font-size: smaller;
+    background-color: rgb(199, 199, 211);
+
+}
+a:hover{
+    color: blue;
+    background-color: blueviolet;
+}
